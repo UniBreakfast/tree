@@ -1,3 +1,18 @@
+# tree
+
+## A reasearch in dinamically controlled shapes on canvas
+
+### Done with a coleague during a pair programming session
+
+![image](https://github.com/user-attachments/assets/34332618-d566-4f0c-a0cd-fd260406d74b)
+
+![image](https://github.com/user-attachments/assets/815b9e72-64dd-44f0-b191-fb20e017e261)
+
+
+Ниже текст README Милы (соавтора)
+
+---
+
 Проект на данном этапе в разработке
 
 Оживляю деревья - в tree
